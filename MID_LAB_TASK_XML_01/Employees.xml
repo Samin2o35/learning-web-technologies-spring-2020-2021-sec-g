@@ -1,0 +1,40 @@
+<Employees>
+    <Employee no='1'>
+        <ID>1</ID>
+        <Name>John Doe</Name>
+        <Address>
+            <House>38</House>
+            <Road>3</Road>
+            <Place>Banani</Place>
+            <City>Dhaka</City>
+        </Address>
+        <Department>Sales</Department>
+        <Salary>20000</Salary>
+    </Employee>
+
+    <Employee no='2'>
+        <ID>2</ID>
+        <Name>Mark Zuckerberg</Name>
+        <Address>
+            <Flat>A/1</Flat>
+            <House>20</House>
+            <Road>18</Road>
+            <Place>Mirpur</Place>
+            <City>Dhaka</City>
+        </Address>
+        <Department>Accounts</Department>
+        <Salary>12000</Salary>
+    </Employee>
+
+    <Employee no='3'>
+        <ID>3</ID>
+        <Name>Ala Voski</Name>
+        <Address>
+            <House>38</House>
+            <Road><3/Road>
+            <Place>Motijheel</Place>
+        </Address>
+        <Department>Human Resources</Department>
+        <Salary>30000</Salary>
+    </Employee>
+</Employees>
