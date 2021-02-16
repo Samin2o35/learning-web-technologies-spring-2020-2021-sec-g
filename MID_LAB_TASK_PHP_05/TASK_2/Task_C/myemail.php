@@ -7,7 +7,7 @@
 	<form method="POST" action="#">
 		<fieldset>
 			<legend><b>EMAIL</b></legend>
-			Name: 		<input type="email" name="myemail" value="<?php if(isset($_POST['myemail'])){ echo $_POST['mynemail']; }?>"> <br>
+			Name: 		<input type="email" name="myemail" value="<?php if(isset($_POST['myemail'])){ echo $_POST['myemail']; }?>"> <br>
 						<input type="submit" name="submit" value="Submit">
 		</fieldset>
 	</form>
