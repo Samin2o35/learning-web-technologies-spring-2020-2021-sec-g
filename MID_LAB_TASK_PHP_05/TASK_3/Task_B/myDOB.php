@@ -21,7 +21,7 @@
 	<form method="POST" action="#">
 		<fieldset>
 			<legend><b>DATE OF BIRTH</b></legend>
-			Date of Birth : 		<input type="DOB" name="myDOB" value=""> <br>
+			Date of Birth : 		<input type="date" name="myDOB" value=""> <br>
 						<input type="submit" name="submit" value="Submit">
 		</fieldset>
 	</form>
