@@ -20,10 +20,10 @@
 			
 			echo "
 					<tr>
-						<td>{$var['name']}</td>
-						<td>{$int['profit']}</td>
-						<td><a href='edit.php?id={$var['name']}'>edit</a> |
-							<a href='../controller/delete.php?id={$var['name']}'>delete</a>
+						<td>{$var['NAME']}</td>
+						<td>{$int['PROFIT']}</td>
+						<td><a href='edit.php?id={$var['NAME']}'>edit</a> |
+							<a href='../controller/delete.php?id={$var['NAME']}'>delete</a>
 						</td>
 						
 				";
